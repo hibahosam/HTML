@@ -6,73 +6,61 @@
 .col-1 {
     width: 8.33%;
     float: left;
-    border: 1px solid;
 }
 
 .col-2 {
     width: 16.66%;
     float: left;
-    border: 1px solid;
 }
 
 .col-3 {
     width: 24.99%;
     float: left;
-    border: 1px solid;
 }
 
 .col-4 {
     width: 33.33%;
     float: left;
-    border: 1px solid;
 }
 
 .col-5 {
     width: 41.66%;
     float: left;
-    border: 1px solid;
 }
 
 .col-6 {
     width: 49.99%;
     float: left;
-    border: 1px solid;
 }
 
 .col-7 {
     width: 58.32%;
     float: left;
-    border: 1px solid;
 }
 
 .col-8 {
     width: 66.65%;
     float: left;
-    border: 1px solid;
 }
 
 .col-9 {
     width: 74.98%;
     float: left;
-    border: 1px solid;
 }
 
 .col-10 {
     width: 83.31%;
     float: left;
-    border: 1px solid;
 }
 
 .col-11 {
     width: 91.63%;
     float: left;
-    border: 1px solid;
 }
 
 .col-12 {
     width: 100%;
     float: left;
-    border: 1px solid;
 }
 
 .row {
@@ -134,4 +122,9 @@ body{
   }
   .hero-text h1{
     font-size:50px;
+  }
+  .section-title{
+      padding: 10px;
+      text-align: center;
+
   }
